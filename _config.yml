@@ -9,7 +9,7 @@ twitter: "https://twitter.com/"
 github: "https://github.com/"
 
 # Site config
-baseurl: "."
+baseurl: "https://monokuroumu.github.io/monokeebs"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
